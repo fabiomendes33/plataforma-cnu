@@ -1,0 +1,30 @@
+# Dependências do Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Cache e temporários
+*.log
+*.tmp
+.cache/
+dist/
+build/
+
+# Arquivos de SO
+*.swp
+*.swo
+
+# Ambiente local
+.env
+.env.local
+
