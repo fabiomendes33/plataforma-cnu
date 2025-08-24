@@ -1,12 +1,15 @@
 const CACHE_NAME = "plataforma-cnu-v1";
 
 const urlsToCache = [
-  "./plataformaestudoscnu2025.html",
+  "./index.html",
   "./manifest.json",
   "./style.css",
   "./meu-script.js",
-  "./img/logo.png"
+  "./img/logo.png",
+  "./img/icon-192.png",
+  "./img/icon-512.png"
 ];
+
 
 // Instalação do service worker (armazenando no cache)
 self.addEventListener("install", (event) => {
