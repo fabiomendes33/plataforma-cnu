@@ -1,5 +1,4 @@
 # 📚 Plataforma Estudos CNU 2025
-https://fabiomendes33.github.io/plataforma-cnu/
 
 Aplicação web em formato **PWA (Progressive Web App)** criada para apoiar os estudos do **CNU 2025 - Bloco 5 (Analista Técnico Administrativo)**.  
 A plataforma contém teoria organizada e questões no padrão FGV, com feedback imediato, funcionando também **offline**.
